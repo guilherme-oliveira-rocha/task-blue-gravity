@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "image": "/src/assets/img/arts/MonaLisa.jpg",
+    "title": "Mona Lisa",
+    "category": "Painting",
+    "description": "The Mona Lisa is a masterpiece of Renaissance art created by Leonardo da Vinci. Painted in the early 16th century, it is widely regarded as one of the most famous and iconic paintings in the world. The enigmatic smile of the woman in the portrait has intrigued viewers for centuries, and the painting's exquisite technique and composition continue to captivate art lovers to this day."
+  },
+  {
+    "id": "2",
+    "image": "/src/assets/img/arts/TheStarryNight.jpg",
+    "title": "The Starry Night",
+    "category": "Painting",
+    "description": "The Starry Night is a painting by the Dutch artist Vincent van Gogh. Created in 1889, it depicts the view from the window of Van Gogh's asylum room at Saint-Rémy-de-Provence, just before sunrise. The swirling clouds and vibrant stars in the night sky, along with the distinctive cypress tree in the foreground, make The Starry Night one of the most recognized and celebrated works of art in history."
+  },
+  {
+    "id": "3",
+    "image": "/src/assets/img/arts/David.jpg",
+    "title": "David",
+    "category": "Sculpture",
+    "description": "David is a masterpiece of Renaissance sculpture created by the Italian artist Michelangelo. Carved from marble, the statue depicts the biblical hero David in the moments before his battle with Goliath. Standing over 17 feet tall, David is admired for its intricate detail and lifelike expression, showcasing Michelangelo's unparalleled skill as a sculptor."
+  },
+  {
+    "id": "4",
+    "image": "/src/assets/img/arts/TheThinker.jpg",
+    "title": "The Thinker",
+    "category": "Sculpture",
+    "description": "The Thinker is a bronze sculpture by the French artist Auguste Rodin. Created in the late 19th century, it depicts a man in a seated position, deep in thought. Originally conceived as part of a larger work called The Gates of Hell, The Thinker has since become one of Rodin's most famous and recognizable sculptures, symbolizing contemplation and the pursuit of knowledge."
+  },
+  {
+    "id": "5",
+    "image": "/src/assets/img/arts/Guernica.jpg",
+    "title": "Guernica",
+    "category": "Painting",
+    "description": "Guernica is a painting by the Spanish artist Pablo Picasso. Created in 1937, it depicts the bombing of the Basque town of Guernica during the Spanish Civil War. With its stark monochromatic palette and powerful imagery, Guernica is a powerful anti-war statement and one of Picasso's most famous works, serving as a symbol of the horrors of war and the resilience of the human spirit."
+  }
+]
+  

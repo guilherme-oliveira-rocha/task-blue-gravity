@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "image": "/src/assets/img/musics/BohemianRhapsody.jpg",
+    "title": "Bohemian Rhapsody",
+    "category": "Rock",
+    "description": "Bohemian Rhapsody is one of the most iconic songs in rock history. Composed by Freddie Mercury and released in 1975 as part of the album 'A Night at the Opera' by the British band Queen, this musical masterpiece defies categorization. With a unique structure that incorporates elements of rock, opera, ballad, and even a segment of rock opera, Bohemian Rhapsody is an unparalleled sonic journey. The song stands out not only for its musical complexity but also for its engaging narrative, which deals with themes such as regret, redemption, and the confrontation between good and evil. Freddie Mercury's legendary vocals, accompanied by the brilliant instrumental arrangements of Brian May, Roger Taylor, and John Deacon, elevate Bohemian Rhapsody to a unique place in music history. The commercial and critical success of the track is undeniable, having topped the charts in various countries and remaining one of the most beloved and revered songs to this day."
+  },
+  {
+    "id": "2",
+    "image": "/src/assets/img/musics/Smooth.jpg",
+    "title": "Smooth",
+    "category": "Pop/Rock",
+    "description": "Smooth is a legendary collaboration between the renowned guitarist Santana and the vocalist Rob Thomas from the band Matchbox Twenty. Released in 1999 as part of Santana's album 'Supernatural,' this song is a fusion of musical styles that transcends genres. With its unique blend of Latin rock, pop, and electronic music elements, Smooth quickly became a global phenomenon. Santana's unmistakable guitar, with its passionate riffs and blazing solos, blends seamlessly with Rob Thomas's seductive vocals, creating an immersive musical atmosphere. In addition to its irresistible musical appeal, Smooth is also remembered for its captivating lyrics, which speak of love, desire, and irresistible attraction. With three Grammy Awards won in 2000, including Record of the Year, Smooth solidified its place in music history as one of the great modern classics."
+  },
+  {
+    "id": "3",
+    "image": "/src/assets/img/musics/Imagine.jpg",
+    "title": "Imagine",
+    "category": "Pop/Rock",
+    "description": "Imagine is a timeless song that echoes the yearnings for a world of peace and harmony. Written and recorded by John Lennon in 1971, this song has become an anthem for generations of dreamers and activists around the world. With its gentle melody and powerful lyrics, Imagine transports us to a place where there are no borders, religions, or cultural barriers - just humanity sharing a common destiny. Lennon's vision of a world without divisions resonates even today, serving as a reminder of the need for compassion and empathy. Imagine is not just a song; it is a call to action, an invitation to imagine a better future and to work tirelessly to make it a reality."
+  },
+  {
+    "id": "4",
+    "image": "/src/assets/img/musics/BillieJean.jpg",
+    "title": "Billie Jean",
+    "category": "Pop",
+    "description": "Billie Jean is one of the most iconic tracks from Michael Jackson's album 'Thriller,' released in 1982. This captivating song, with its irresistible groove and mysterious lyrics, quickly became one of the biggest hits of the King of Pop. The pulsating beat and the iconic bass riff of Billie Jean make it instantly recognizable, while Michael Jackson's unmistakable voice elevates the song to new heights. The song's lyrics tell the story of a fleeting encounter that results in allegations of paternity, exploring themes of fame, obsession, and the thin line between reality and fantasy. With its innovative choreography and electrifying performances, Billie Jean is not just a song, but a milestone in the history of pop music, which continues to influence artists and admirers to this day."
+  },
+  {
+    "id": "5",
+    "image": "/src/assets/img/musics/StairwayHeaven.jpg",
+    "title": "Stairway to Heaven",
+    "category": "Rock",
+    "description": "Stairway to Heaven is one of the definitive masterpieces of classic rock. Released in 1971 as part of the album 'Led Zeppelin IV' by the British band Led Zeppelin, this epic song transcends the limitations of the genre, taking listeners on a musical and spiritual journey. With a complex musical structure that ranges from gentle, introspective chords to explosive energy with breathtaking guitar solos, Stairway to Heaven is a truly unique auditory experience. The lyrics, filled with vivid imagery and enigmatic metaphors, invite listeners to reflect on profound questions of life, death, and spiritual transcendence. Since its release, Stairway to Heaven has been the subject of detailed analysis and endless interpretations, cementing its place as one of the greatest songs in rock history."
+  }
+]
